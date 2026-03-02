@@ -1,0 +1,44 @@
+NOMBRE COMPLETO: RONY ALEXANDER BARRIOS
+===============================
+
+Producto 1
+Codigo (solo numeros):
+
+45
+
+Nombre:computadora 01
+
+Precio: Q50.25
+
+
+Producto 2
+Codigo (solo numeros):65
+
+Nombre:impresora 10
+
+Precio: Q25
+
+
+Producto 3
+Codigo (solo numeros):25
+
+Nombre:mouse
+
+Precio: Q52
+
+
+--- LISTA DE PRODUCTOS ---
+
+Codigo: 45
+Nombre: computadora 01
+Precio: Q50.25
+
+Codigo: 65
+Nombre: impresora 10
+Precio: Q25
+
+Codigo: 25
+Nombre: mouse
+Precio: Q52
+
+Process finished with exit code 0
